@@ -1,7 +1,8 @@
-
-## "Tierra soñada...."
+---
+title: "Tierra soñada...."
 date: 2012-07-13
-categories:  - "opinion"
+draft: false
+---
 
 Decían los antiguos: Grulla!!,a tu tierra,aunque sea con una pata…
 

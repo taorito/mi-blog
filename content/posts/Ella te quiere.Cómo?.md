@@ -1,8 +1,7 @@
 ---
 title: "Ella te quiere. Cómo?"
 date: 2011-08-21
-categories: 
-  - "cosas-que-pasan"
+draft: false
 ---
 
 Ayer leía un blog sobre el tema de quererte como amigo.

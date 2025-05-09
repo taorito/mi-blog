@@ -1,8 +1,7 @@
 ---
 title: La familia y uno más.
 date: 2009-07-06T19:38:00
-categories: 
-  - "opinion"
+draft: false 
 ---
 
 Me pregunto porqué cuando te unes a una persona siempre te unes a ella y a todos sus colaterales

@@ -1,5 +1,8 @@
-## La cadena alimentaria empresarial"
+---
+title: La cadena alimentaria empresarial"
 date: 2012-07-21
+draft: false
+---
 
 Aunque ya es un tópico por todos conocidos, no puedo dejar de pensar en la naturaleza cada vez que intento justificar algunas de las situaciones con las que los humanos de por aquí nos obsequiamos en nuestro día a día. 
 

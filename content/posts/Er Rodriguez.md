@@ -1,8 +1,7 @@
 ---
 title: "Er Rodriguez"
 date: 2010-03-31
-categories: 
-  - "cosas-que-pasan"
+draft: false
 ---
 
 **Rodriguez**: Dícese del individuo al que la parienta ha dejado solito como dueño y señor del hogar conyugal por ausencia de ella misma.

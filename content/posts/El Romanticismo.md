@@ -1,6 +1,7 @@
 ---
 title: "El Romanticismo"
 date: 2010-05-06
+draft: false
 ---
 
 Hace un par de días leía un libro, ya conocido, y desde entonces me ronda por la cabeza una frase de esas que resumen toda una corriente literaria. 
