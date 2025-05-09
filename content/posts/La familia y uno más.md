@@ -1,6 +1,6 @@
 ---
 title: "La familia y uno mas."
-date: lunes, 6 de julio del 2009 a las 19:38
+date: 2009-07-06T19:38:00
 categories: 
   - "opinion"
 ---
