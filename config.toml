@@ -1,4 +1,4 @@
-baseURL = 'http://ejemplo.com/' # Cámbialo si quieres publicarlo luego
+baseURL = "https://jolly-dragon-3d4862.netlify.app/" # Cámbialo si quieres publicarlo luego
 languageCode = 'es'
 title = 'Mi Blog'
 theme = 'PaperMod'
