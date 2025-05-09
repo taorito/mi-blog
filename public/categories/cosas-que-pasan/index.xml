@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cosas-Que-Pasan on Mi Blog</title>
-    <link>http://localhost:1313/categories/cosas-que-pasan/</link>
+    <link>https://jolly-dragon-3d4862.netlify.app/categories/cosas-que-pasan/</link>
     <description>Recent content in Cosas-Que-Pasan on Mi Blog</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>es</language>
     <lastBuildDate>Sun, 21 Aug 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/cosas-que-pasan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jolly-dragon-3d4862.netlify.app/categories/cosas-que-pasan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuando estás</title>
-      <link>http://localhost:1313/posts/cuando-est%C3%A1s/</link>
+      <link>https://jolly-dragon-3d4862.netlify.app/posts/cuando-est%C3%A1s/</link>
       <pubDate>Sun, 21 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cuando-est%C3%A1s/</guid>
+      <guid>https://jolly-dragon-3d4862.netlify.app/posts/cuando-est%C3%A1s/</guid>
       <description>&lt;p&gt;Cuando estás.Todo es estupendo.&lt;/p&gt;
 &lt;p&gt;Eres el compañero, el amigo, el que apoya, el que oye, el que dice, el que ríe, el que llora, el que aconseja, el que pide consejo, el mejor de todos.&lt;/p&gt;
 &lt;p&gt;El que se preocupa por ti, el que está simplemente.No hay más.&lt;/p&gt;
@@ -21,18 +21,18 @@
     </item>
     <item>
       <title>Dar confianzas</title>
-      <link>http://localhost:1313/posts/dar-confianzas/</link>
+      <link>https://jolly-dragon-3d4862.netlify.app/posts/dar-confianzas/</link>
       <pubDate>Fri, 09 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dar-confianzas/</guid>
+      <guid>https://jolly-dragon-3d4862.netlify.app/posts/dar-confianzas/</guid>
       <description>&lt;p&gt;Cuando empezamos una relación de cualquier tipo con alguien y por el medio que sea siempre el orden es el mismo, primero conversaciones sobre cosas más o menos cosas triviales y poco a poco comenzamos a ser la Wikipedia&amp;hellip;..&lt;/p&gt;
 &lt;p&gt;Largamos y largamos y ahí está el otro como una esponja, absorbe y absorbe sin problemas…&lt;/p&gt;
 &lt;p&gt;Ya el agua le sale, se le derrama.Pero no importa, no sabe nada de ti y tú tienes mucho que contar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Un poquito de compás....por favor!!!</title>
-      <link>http://localhost:1313/posts/un-poquito-de-comp%C3%A1s....por-favor/</link>
+      <link>https://jolly-dragon-3d4862.netlify.app/posts/un-poquito-de-comp%C3%A1s....por-favor/</link>
       <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/un-poquito-de-comp%C3%A1s....por-favor/</guid>
+      <guid>https://jolly-dragon-3d4862.netlify.app/posts/un-poquito-de-comp%C3%A1s....por-favor/</guid>
       <description>&lt;p&gt;Cierto día a un personaje de una serie se le ocurrió usar una frase.&lt;/p&gt;
 &lt;p&gt;”Un poquito de compás, por favor”.&lt;/p&gt;
 &lt;p&gt;Como todo lo nuevo y original tuvo su éxito hasta que ya se usaba hasta en la sopa y aquello ya sonaba hasta mal.&lt;/p&gt;
