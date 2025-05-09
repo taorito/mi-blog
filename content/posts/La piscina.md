@@ -1,8 +1,10 @@
 ---
 title: "La piscina..."
 date: 2012-07-11
-tags: cosas-que-pasan
+tags:
+  - cosas-que-pasan
 draft: false
+
 ---
 
 Cuando hablas con alguien parece ser que mola bastante eso de que cuando te pregunten al respecto contestes aquello de: sí, tiene piscina, claro.

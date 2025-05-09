@@ -12,4 +12,6 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-pagination.pagerSize = 10
+[pagination]
+  pagerSize = 10
+
