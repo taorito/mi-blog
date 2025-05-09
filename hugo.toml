@@ -1,0 +1,4 @@
+baseURL = 'http://ejemplo.com/' # Cámbialo si quieres publicarlo luego
+languageCode = 'es'
+title = 'Mi Blog'
+theme = 'PaperMod'

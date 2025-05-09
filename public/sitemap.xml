@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-09T09:07:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-09T09:07:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cosas-que-pasan/</loc>
+    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dar-confianzas/</loc>
+    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/un-poquito-de-comp%C3%A1s....por-favor/</loc>
+    <lastmod>2010-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/er-rodriguez/</loc>
+    <lastmod>2010-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/los-sherifs-y-marshalls-de-la-ciudad/</loc>
+    <lastmod>2010-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
