@@ -1,6 +1,5 @@
-## La Cesta de......Navidad
-
-martes, 6 de octubre del 2009 a las 14:22
+title: "La Cesta de Navidad"
+date: Tuesday, October 6, 2009 at 2:22 PM
 
 Por fin llega, ya se acerca,ya falta poco, viene.....la Navidad!!!!! 
 
