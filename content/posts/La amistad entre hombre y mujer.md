@@ -1,6 +1,6 @@
 ---
 title: "La amistad entre hombre y mujer"
-date: 12 de enero de 2010
+date: 2010-01-10
 categories: 
   - "opinion"
 ---

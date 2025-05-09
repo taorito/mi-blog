@@ -1,6 +1,6 @@
 ---
 title: "El contexto y el paso del tiempo"
-date: 2012-08-14T
+date: 2012-08-14
 draft: false
 ---
 

@@ -2,17 +2,14 @@ baseURL = "https://jolly-dragon-3d4862.netlify.app/"
 languageCode = "es"
 title = "Mi Blog"
 theme = "PaperMod"
-paginate = 10
 
 [params]
-  homeInfoParams = { 
-    title = "Bienvenido", 
-    content = "Aquí irán todos mis escritos personales" 
-  }
+  homeInfoParams.title = "Bienvenido"
+  homeInfoParams.content = "Aquí irán todos mis escritos personales"
   mainSections = ["posts"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-
+pagination.pagerSize = 10
