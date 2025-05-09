@@ -1,6 +1,6 @@
 ---
 title: "La cesta de Navidad."
-date: Tuesday, October 6, 2009 at 2:22 PM
+date: 2009-10-06T2:22
 draft: false
 ---
 
