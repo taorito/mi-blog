@@ -1,6 +1,5 @@
 ---
-"La familia y uno mas."
-
+title: "La familia y uno más."
 date: 2009-07-06T19:38:00
 categories: 
   - "opinion"
