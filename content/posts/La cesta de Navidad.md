@@ -1,76 +1,54 @@
----
-title: "La cesta de Navidad."
-date: 2009-10-06
-draft: false
----
+## **La Cesta de......Navidad**
+martes, 6 de octubre del 2009 a las 14:22
 
-
-Por fin llega, ya se acerca,ya falta poco, viene.....la Navidad!!!!! 
+Por fin llega, ya se acerca,ya falta poco, viene.....la Navidad!! 
 
 Llevas poco tiempo en la Empresa y la esperas con ansia...
-
-Esperas múltiples viandas (jamoncito, cañitas de lomo, turrones y artículos selectos ) y licores varios ( Riberitas, whisky de malta......y alguna bebida dulce pa la parienta)... 
-
+Esperas múltiples viandas (jamoncito, cañitas de lomo, turrones y artículos selectos ) y licores varios ( *Riberitas*, whisky de malta...y alguna bebida dulce pa la parienta)... 
 La Empresa es importante, es una multinacional con solera y debe ser una gran Cesta la que den a sus empleados.
 
-Tu cuñadísimo, el Pepe, trabaja en Neumaticos Maripepa,donde son cuatro en total contando a Maripepa....., y no veas la cesta que le dan...
+Tu cuñadísimo, el Pepe, trabaja en Neumaticos Marilulu,donde son cuatro en total contando a Marilulu..,y no veas la cesta que le dan...
 
 Este año, por fín!!, se tendrá que comer sus burlas y lindezas contigo. 
-
 Unos días antes del ansiado 25 te avisan....
-
 --Manué!!!!!, pasate por el Almacén a recoger tu cesta!!!! 
-
 Coges el coche y lo acercas a la puerta.... 
 
-Esto debe pesar, con el coche es más cómodo, no se me caerá nada y la llevaré a casa tal cual...verás la parienta....jejejeje. 
-
+Esto debe pesar, con el coche es más cómodo, no se me caerá nada y la llevaré a casa tal cual..verás la parienta. 
 Entras, saludas a tus compañeros todo jovial y el Jefe de Almacén, pájaro ya curtido en toda clase de lides, te dice: 
 
 --Qué, venimos por la Cesta, no???. 
---Jejeje, contestas nerviosillo, claro...me han avisado. 
+--Sí, contestas nerviosillo, claro...me han avisado. 
 --Bien, hombre, bien...voy por ella. 
 
-A los pocos segundos, que ni minutos, regresa con un paquetito bajo el brazo.... 
+A los pocos segundos, que ni minutos, regresa con un paquetito bajo el brazo.. 
+Miras y remiras..pero no, no trae nada más..
+--Toma,que lo difrutes..y sonrie de oreja a oreja. 
 
-Miras y remiras...pero no, no trae nada más....
+Coges *el lo que sea* que esconde aquel papel de regalo que a algo envuelve y te vas.
 
---Toma,. que lo difrutes......y sonrie de oreja a oreja. 
+Llegas al coche, lo mueves..no!!!, lo *zamarreas*..no suena..es cuadrado y compacto.
+--Joder!!! esto parece una caja. Bueno, tal vez lo de dentro realmente sí merece la pena..veremos. 
 
-Coges el lo que sea que esconde aquel papel de regalo que a algo envuelve y te vas..... 
+Quitás el papel de regalo con delicadeza..anda ya!! los *cachos* no tienen aprovechamiento..
+--Un libro!!!..es un libro!!!!
+"Cómo dedicarse a la cría del bonsai de Ávila con éxito, en 10 lecciones". 
+Eso sí..Edición especial y limitada a 20.000 ejemplares.
 
-Llegas al coche, lo mueves....no!!!, lo zamarreas....no suena...es cuadrado y compacto.
+Tu cara es un poema.No tiene desperdicio.Lástima no tener una cámara a mano.
+Tu gozo en un pozo..A tu esposa??
 
---Joder!!! esto parece una caja.....bueno, tal vez lo de dentro realmente sí merece la pena...veremos. 
+Bueno mejor no decir nada.Es que esta gente no tiene costumbre de dar Cestas a los empleados. 
+*Ar cuñao*???? a ese mejor no le digás ná..*paqué*???? 
 
-Quitás el papel de regalo con delicadeza......anda ya!! los cachos no tienen aprovechamiento...... 
-
---Un libro!!!...es un libro!!!!
-
-"Cómo dedicarse a la cría del bonsai con éxito en 10 lecciones". 
-
-Eso sí...Edición especial y limitada a......20.000 ejemplares..... 
-
-Tu cara es un poema....no tiene desperdicio...lástima no tener una cámara a mano......
-
-Tu gozo en un pozo....a la parienta???? .....
-
-Bueno mejor no decir nada....es que esta gente no tiene costumbre de dar Cestas a los empleados..... 
-
-Ar cuñao????...a ese mejor no le digás ná...paqué???? 
-
-Así año tras año vas recogiendo esos libros, porque el fondo o la oferta es amplia...., que te van dando..... 
-
-Eso sí, todos están perfectamente envueltos en papel de regalo, por cierto debieron comprar una partida grande....siempre es el mismo, todos los años.........el mismito. 
+Así, año tras año, vas recogiendo esos libros, porque el fondo o la oferta es amplia,(trabajo en un gran grupo editorial, solo es por aclararlo), que te van dando..... 
+Eso sí, todos están perfectamente envueltos en papel de regalo. Por cierto debieron comprar una partida grande.Siempre es el mismo, todos los años.El mismito. 
 
 Cambía el título del librejo, la felicitación ( de las que ya tienes varios modelos, porque los jefes han ido cambiando ). 
+Y sobre todo tu mala leche, que ya hasta se evaporó en una de tus ansiadas entregas.
 
-Y sobre todo tu mala leche, que ya hasta se evaporó en una de tus ansiadas entregas..... 
+Caminas al contenedor cercano y, compañero de fátigas, lo depósitas. 
+Con cariño, eso sí, con mucho cariño.
+Como otras veces, por aquello del cachondeo familiar,vete al Carrefour y te la fabricas tu..
 
-Caminas al contenedor cercano y, compañero de fátigas, lo depósitas....... 
-
-Con cariño, eso sí, con mucho cariño....... 
-
-Como otras veces, por aquello del cachondeo familiar,...... vete al Carrefour..... y te la fabricas tu.......
-
-Quede claro, por si no se me cree, que esta es solo una historia en "primera persona"...
+Quede claro, por si no se me cree, que esta es solo una historia en "vivida en primera persona".
