@@ -1,5 +1,5 @@
-
-## "La familia y uno mas."
+---
+"La familia y uno mas."
 
 date: 2009-07-06T19:38:00
 categories: 
