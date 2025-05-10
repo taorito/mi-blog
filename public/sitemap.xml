@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jolly-dragon-3d4862.netlify.app/posts/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-carajotes/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jolly-dragon-3d4862.netlify.app/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/categories/</loc>
     <lastmod>2025-05-08T20:55:00+02:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/dioses-y-mitos-de-andar-por-casa/</loc>
+    <lastmod>2025-05-08T20:55:00+02:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/</loc>
+    <lastmod>2025-05-08T20:55:00+02:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/</loc>
     <lastmod>2025-05-08T20:55:00+02:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/categories/opinion/</loc>
@@ -25,6 +22,9 @@
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/%C3%A9rase-que-se-era/</loc>
     <lastmod>2016-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/madrid-16.12.2013-la-soledad/</loc>
+    <lastmod>2014-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/el-buen-email--seco-breve-y-sin-respuesta/</loc>
     <lastmod>2012-09-30T00:00:00+00:00</lastmod>
@@ -53,8 +53,14 @@
     <loc>https://jolly-dragon-3d4862.netlify.app/tags/</loc>
     <lastmod>2012-07-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/tags/caciquadas/</loc>
+    <lastmod>2011-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/categories/cosas-que-pasan/</loc>
-    <lastmod>2011-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2011-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-reinos-de-taifas-y-los-se%C3%B1oritos-andaluces/</loc>
+    <lastmod>2011-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/cuando-est%C3%A1s/</loc>
     <lastmod>2011-08-21T00:00:00+00:00</lastmod>
@@ -64,6 +70,9 @@
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/ella-te-quiere.c%C3%B3mo/</loc>
     <lastmod>2011-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-primeros-encuentros/</loc>
+    <lastmod>2011-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/las-consultas-m%C3%A9dicas/</loc>
     <lastmod>2010-08-23T00:00:00+00:00</lastmod>
@@ -90,6 +99,9 @@
     <lastmod>2010-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-avatares/</loc>
+    <lastmod>2010-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-seres-mitol%C3%B3gicos-y-los-dem%C3%A1s/</loc>
     <lastmod>2010-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/la-amistad-entre-hombre-y-mujer/</loc>
