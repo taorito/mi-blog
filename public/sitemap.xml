@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-carajotes/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/categories/</loc>
     <lastmod>2025-05-08T20:55:00+02:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/dioses-y-mitos-de-andar-por-casa/</loc>
     <lastmod>2025-05-08T20:55:00+02:00</lastmod>
   </url><url>
-    <loc>https://jolly-dragon-3d4862.netlify.app/posts/</loc>
-    <lastmod>2025-05-08T20:55:00+02:00</lastmod>
-  </url><url>
-    <loc>https://jolly-dragon-3d4862.netlify.app/</loc>
-    <lastmod>2025-05-08T20:55:00+02:00</lastmod>
-  </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/categories/opinion/</loc>
     <lastmod>2025-05-08T20:55:00+02:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/la-ignorancia-es-osada/</loc>
+    <lastmod>2017-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/%C3%A9rase-que-se-era/</loc>
     <lastmod>2016-02-27T00:00:00+00:00</lastmod>
@@ -59,6 +65,9 @@
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/ella-te-quiere.c%C3%B3mo/</loc>
     <lastmod>2011-08-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/las-consultas-m%C3%A9dicas/</loc>
+    <lastmod>2010-08-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/el-romanticismo/</loc>
     <lastmod>2010-05-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,8 +80,14 @@
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/er-rodriguez/</loc>
     <lastmod>2010-03-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-se%C3%B1ores-feudales/</loc>
+    <lastmod>2010-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-sherifs-y-marshalls-de-la-ciudad/</loc>
     <lastmod>2010-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/la-soledad/</loc>
+    <lastmod>2010-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/los-avatares/</loc>
     <lastmod>2010-03-03T00:00:00+00:00</lastmod>
@@ -85,5 +100,7 @@
   </url><url>
     <loc>https://jolly-dragon-3d4862.netlify.app/posts/la-familia-y-uno-m%C3%A1s/</loc>
     <lastmod>2009-07-06T19:38:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jolly-dragon-3d4862.netlify.app/posts/las-inexplicabes-modas/</loc>
   </url>
 </urlset>
